@@ -1,0 +1,90 @@
+.welcome-image{
+    background-image: url("../Images/welcome-image.png");
+    background-position: center;
+    background-size: cover;
+    height:100vh;
+}
+.web-nav{
+    height: 20vh;
+    background-color: rgba(0,0,0,0.3);
+}
+.nav-image{
+    margin-left: 10vw;
+}
+.welcome-image li a{
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.section-2{
+    height:100vh;
+}
+.intro-image-con{
+    margin-top: 12%;
+    margin-left: 5vw;
+}
+
+.text-con{
+    margin-top: 40%;
+    margin-left: 7vh;
+}
+.text-con span{
+    color: #434343;
+    font-size: 4.5vh;
+    font-family: 'Marck Script', cursive;
+}
+.text-con p{
+    color: #f7993e;
+    font-size: 4vh;
+    font-family: 'Lato', sans-serif;
+}
+.vh4half{
+    font-size: 4.5vh;
+}
+.marck-text{
+    color: #434343;
+    font-family: 'Marck Script', cursive;
+}
+.lato-text{
+    color: #434343;
+    font-family: 'Lato', sans-serif;
+}
+.text-con-2{
+    line-height: 20px;
+    margin-top: 32%;
+}
+.text-con-2 div{
+    margin-left:10%;
+}
+.text-con-2 span{
+    color: #434343;
+    font-size: 3.3vh;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 1.3px;
+}
+.anmeldung{
+    margin-top: 20%;
+}
+.details-form label{
+    color: #434343;
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    font-weight: bolder;
+}
+.details-form input{
+    border-radius: 0px;
+}
+.checkmark{
+    width: 40px;
+}
+.first-check-group-words{
+    font-size: 3vh;
+    font-weight: bold;
+}
+.form-submit-btn{
+    background-color:#f19e3e;
+    color: white;
+    border-radius: 17px;
+    font-weight: bold;
+    letter-spacing: 1.2px;
+}
